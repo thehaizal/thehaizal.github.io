@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'quicksand';
+    src: url('')
+}
+
+p {
+    font-family: 'quicksand';
+    color: red;
+}
